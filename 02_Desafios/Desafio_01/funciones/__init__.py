@@ -20,4 +20,6 @@ from .funciones import (
     utn_mostrar_heroes_mas_debiles
 )
 
-from .auxiliares import play_sound
+from .auxiliares import play_sound, limpiar_pantalla
+
+from .salida_consola import mostrar_menu
